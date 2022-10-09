@@ -1,0 +1,5 @@
+#package files
+/node_modules
+
+#environment variables
+/.env
